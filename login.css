@@ -1,4 +1,4 @@
-/* General Reset */
+
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -9,7 +9,7 @@ body {
     height: 100vh;
 }
 
-/* Login Container */
+
 .login-container {
     display: flex;
     flex-direction: column;
@@ -23,9 +23,9 @@ body {
     text-align: center;
 }
 
-/* Logo Section */
+
 .login-logo img {
-    width: 150px; /* Adjust the size of the logo */
+    width: 150px; 
     height: auto;
     margin-bottom: 20px;
 }
